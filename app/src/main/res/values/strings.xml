@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NavegacaoV7</string>
+    <string name="acao_pesquisar"> Pesquisar</string>
+    <string name="acao_info"> Info</string>
+
+    <string name="deletar"> Deletar </string>
+    <string name="mensagemClick"> Você selecionou: </string>
+</resources>
